@@ -28,17 +28,7 @@ This project was developed as part of the scientific article:
 
 ## ⚖️ Licensing
 
-This entire project, including all code, 3D models, textures, and audio assets, is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
-
-You are free to:
-* **Share** — copy and redistribute the material in any medium or format.
-* **Adapt** — remix, transform, and build upon the material.
-
-Under the following terms:
-* **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-* **NonCommercial** — You may not use the material for commercial purposes.
-
-You can find the full license text in the `LICENSE` file.
+This entire project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**. You can find the full license text in the `LICENSE` file.
 
 ---
 
